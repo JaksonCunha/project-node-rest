@@ -1,0 +1,23 @@
+{
+  "name": "projeto-nodejs-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Jakson",
+    "Cunha",
+    "de",
+    "Souza"
+  ],
+  "author": "Jakson Cunha de Souza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "save-dev": "^0.0.1-security"
+  }
+}
